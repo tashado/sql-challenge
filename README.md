@@ -6,9 +6,13 @@ Module 9 Challenge - SQL
 
 ## Files Included
 ERD - ERD code
+
 ERD Sketch - ERD visual sketch
+
 Data zip file - all csv. files used
+
 schema.sql - Code that created the SQL tables and imported of csv. files from the "Data" folder
+
 mod9_TashaDo.sql - Code to provide the lists noted in the following description.
 
 ## Description
